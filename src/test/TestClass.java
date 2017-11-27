@@ -2,8 +2,11 @@ package test;
 
 public class TestClass
 {
-    public TestClass()
-    {
-        //Hallo
-    }
+	int x;
+
+	public TestClass()
+	{
+		x = 1000;
+		// Hallo
+	}
 }
