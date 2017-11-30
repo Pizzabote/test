@@ -6,7 +6,8 @@ public class TestClass
 
 	public TestClass()
 	{
-		x = 1000;
+		this.x = 17;
+		//x = 1000;
 		//Smedo
 		// Hallo
 	}
