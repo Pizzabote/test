@@ -6,6 +6,7 @@ public class TestClass
 
 	public TestClass()
 	{
+		//setzen von x auf 17
 		this.x = 17;
 		//x = 1000;
 		//Smedo
