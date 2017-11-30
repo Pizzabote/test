@@ -7,6 +7,7 @@ public class TestClass
 	public TestClass()
 	{
 		x = 1000;
+		//Smedo
 		// Hallo
 	}
 }
